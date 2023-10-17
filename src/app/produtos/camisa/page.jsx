@@ -14,7 +14,7 @@ export default function Camisa() {
             width={280}
             height={220}>
             </Image>
-            <p><Link href="/" id="back">Voltar</Link></p>
+            <p><Link href="/" id="back"><button><span>Voltar</span></button></Link></p>
         </figure>
     </div>
   )
