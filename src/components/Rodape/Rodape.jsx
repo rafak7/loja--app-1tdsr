@@ -2,7 +2,9 @@ import React from 'react'
 
 export default function Rodape() {
   return (
-    <div className='rodape'>Rodape</div>
+    <footer className='rodape'>
+      <p>&copy;Todos os direitos reservados - 2023</p>
+    </footer>
     
   )
 }

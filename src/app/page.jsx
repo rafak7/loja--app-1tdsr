@@ -8,7 +8,6 @@ export default function Home({children}) {
         <nav>
           <p><Link href="/produtos/tenis"></Link></p>
           <p><Link href="/produtos/calca"></Link></p>
-          <h2 id='loja'>Loja</h2>
           <p><Link href="/produtos/shorts"></Link></p>
           <p><Link href="/produtos/camisa"></Link></p>
         </nav>
