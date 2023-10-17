@@ -230,5 +230,6 @@ button {
     background-color: #fdf9c4;
     position: fixed;
     bottom: 0;
+    width: 100%;
     
 }
