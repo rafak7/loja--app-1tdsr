@@ -9,7 +9,7 @@ export default function Tenis() {
         <h2>Air max plus - Purple Voltage </h2>
         <figure>
             <Image
-            src="/img/tn.jpg"
+            src="/img/tnn.jpg"
             alt="Imagem tenis"
             width={270}
             height={200}>
