@@ -228,4 +228,7 @@ button {
     text-decoration: none;
     margin-top: 20rem;
     background-color: #fdf9c4;
+    position: fixed;
+    bottom: 0;
+    
 }
