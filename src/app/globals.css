@@ -1,3 +1,6 @@
+body {
+    background-color: #fdf9c4;
+}
 
 .cabecalho nav {
     display: flex;
@@ -25,12 +28,15 @@
 
 /* CAMISA */
 .camisa h1 {
+    padding: 4rem 0;
     text-align: center;
-    margin-top: -2rem;
+    margin-top: -2rem;  
 }
+
 
 .camisa h2 {
     text-align: center;
+    margin-top: -5rem;
 }
 
 .camisa p {
@@ -58,12 +64,14 @@
 
 /* TENIS */
 .tenis h1 {
+    padding: 4rem 0;
     text-align: center;
-    margin-top: -2rem;
+    margin-top: -2rem;  
 }
 
 .tenis h2 {
     text-align: center;
+    margin-top: -5rem;
 }
 
 .tenis p {
@@ -91,12 +99,14 @@
 
 /* SHORTS */
 .shorts h1 {
+    padding: 4rem 0;
     text-align: center;
-    margin-top: -2rem;
+    margin-top: -2rem;  
 }
 
 .shorts h2 {
     text-align: center;
+    margin-top: -5rem;
 }
 
 .shorts p {
