@@ -189,3 +189,10 @@ body {
     margin-top: 20rem;
     background-color: #fdf9c4;
 }
+
+.img_routes a{
+   
+    align-items: center;
+    margin-top: 20px;
+    padding: 40px;
+}
